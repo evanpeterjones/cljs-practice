@@ -1,0 +1,91 @@
+(ns cljs-weather.core
+  (:require [reagent.core :refer [atom]]
+            [reagent.dom :as dom]
+            [ajax.core :refer [GET]]))
+
+(enable-console-print!)
+
+(defonce app-state (atom {:title          "WEATHER"
+                          :units          "imperial"
+                          :postal-code    nil
+                          :location-semantic nil
+                          :x-loc          nil
+                          :y-loc          nil
+                          :data-recieved? false
+                          :weather        {:short-description  ""
+                                           :full-description ""}
+                          :temperatures   {:today    {:label "Today"
+                                                      :value nil}
+                                           :tomorrow {:label "Tomorrow"
+                                                      :value nil}}}))
+
+(defn title []
+  [:h1 (str (:title @app-state) ": " (let [location (:location-semantic @app-state)
+        post (:postal-code @app-state)]
+    (if location location post)))])
+
+(defn temperature [temp]
+  [:div {:class "temperature"}
+   [:h2 (:label temp)]
+    [:div {:class "value"}
+    (:value temp)]])
+
+(defn postal-code []
+  [:div {:class-name "postal-code"}
+   [:h3 "Enter your postal code"]
+   [:input {:type        "text"
+            :placeholder "Postal Code"
+            :value       (:postal-code @app-state)
+            :on-change   #(swap! app-state assoc :postal-code (-> % .-target .-value))}]
+   [:button "Go"]])
+
+(defn get-location! [loc]
+  "use javascript geolocation library to set coordinates"
+  (if loc
+    (do
+       ;(js/alert loc.coords.latitude)ß
+       (swap! app-state assoc :x-loc loc.coords.latitude)
+       (swap! app-state assoc :y-loc loc.coords.longitude))
+    (do
+       ;(js/alert loc)
+       (swap! app-state update-in :x-loc "No Location data")
+       (swap! app-state update-in :y-loc "No Location data"))))
+
+(defn handle-response [resp]
+  (let [today (get-in resp ["list" 0 "main" "temp"])
+        tomorrow (get-in resp ["list" 8 "main" "temp"])
+        ]
+    (swap! app-state
+           update-in [:temperatures :today :value] (constantly today))
+    (swap! app-state
+           update-in [:temperatures :tomorrow :value] (constantly tomorrow))))
+
+(defn get-forecast! []
+  (GET "http://api.openweathermap.org/data/2.5/forecast"
+        {:params  {"lat"  (:x-loc @app-state)
+                  "lon"   (:y-loc @app-state)
+                  "appid" "3c612cd1a014cd6ce89c67d4cca25f39"
+                  "units" (:units @app-state)}
+        :handler handle-response}))
+
+(defn location-info []
+  [:div
+   [:h1 (:x-loc @app-state)]
+   [:h1 (:y-loc @app-state)]
+   [:input {:type     "button"
+            :value    "Get Location"
+            :on-click #(.getCurrentPosition js/navigator.geolocation. get-location!)}]
+  [:input {:type      "button"
+            :value    "Get Weather Data"
+            :on-click get-forecast!}]])
+
+(defn app []
+  [:div {:class "app"}
+   [title]
+   [:div {:class "temperatures"}
+    [location-info]
+    (for [temp (vals (:temperatures @app-state))]
+      (temperature temp))]
+   [postal-code]])
+
+(dom/render [app] (.getElementById js/document "app"))

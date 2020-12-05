@@ -24,15 +24,15 @@
                                                       :value nil}}}))
 
 (defn title []
-  [card ; how do I add parameters for certain visual things like width, etc? keywords?
+  (card
    [:div
     [:h1 (:title @app-state)]
-    [:p (:sub-title @app-state)]]])
+    [:p (:sub-title @app-state)]]))
 
 (defn temperature [temp]
-  [:div {:class "temperature"}
+  [:div.temperature
    [:h2 (:label temp)]
-   [:div {:class "value"}
+   [:div.value
     (:value temp)]])
 
 (defn postal-code []

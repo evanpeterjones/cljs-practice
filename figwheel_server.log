@@ -8770,3 +8770,85 @@ notifying browser that file changed:  resources/public/js/compiled/out/cljs_weat
 Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
 [32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.575 seconds.[0m
 notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.037 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 3.496 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.262 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.233 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.243 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.086 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.511 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.957 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.512 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.142 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.038 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.939 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.113 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.949 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.945 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css

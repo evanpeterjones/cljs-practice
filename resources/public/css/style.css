@@ -1,22 +1,29 @@
 /* some style */
 
 body {
-    background-color: grey;
-    color: #ffffff
-}
-
-h1 {
+    background-color: #010101;
+    color: grey;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 300;
 }
 
 /* CARD.cljs */
 
-.card {
+.temperature {
+    
+}
+
+.value {
+    color: green;
+}
+
+.container {
+    color: black;
+    background-color: grey;
     padding: "2px 16px";
     border-radius: "10px";
 }
 
-card:hover {
-    box-shadow: 0 8px 16px 0 rgba(255,255,255,.2);
+.container:hover {
+    box-shadow: 0 108px 16px 0 rgba(255,255,255,.2);
 }

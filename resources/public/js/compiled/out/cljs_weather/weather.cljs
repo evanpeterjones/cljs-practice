@@ -10,8 +10,8 @@
       (swap! state assoc :x-loc loc.coords.latitude)
       (swap! state assoc :y-loc loc.coords.longitude))
     (do
-      (swap! state update-in :x-loc "No Location data")
-      (swap! state update-in :y-loc "No Location data"))))
+      (swap! state assoc :x-loc "No Location data")
+      (swap! state assoc :y-loc "No Location data"))))
 
 (defn handle-response! [resp app-state]
   (let [today (get-in resp ["list" 0 "main" "temp"])

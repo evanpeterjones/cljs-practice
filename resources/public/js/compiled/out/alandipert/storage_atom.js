@@ -19,7 +19,7 @@ return cognitect.transit.read.call(null,cognitect.transit.reader.call(null,new c
  */
 alandipert.storage_atom.IStorageBackend = function(){};
 
-var alandipert$storage_atom$IStorageBackend$_get$dyn_22484 = (function (this$,not_found){
+var alandipert$storage_atom$IStorageBackend$_get$dyn_22503 = (function (this$,not_found){
 var x__4428__auto__ = (((this$ == null))?null:this$);
 var m__4429__auto__ = (alandipert.storage_atom._get[goog.typeOf(x__4428__auto__)]);
 if((!((m__4429__auto__ == null)))){
@@ -37,11 +37,11 @@ alandipert.storage_atom._get = (function alandipert$storage_atom$_get(this$,not_
 if((((!((this$ == null)))) && ((!((this$.alandipert$storage_atom$IStorageBackend$_get$arity$2 == null)))))){
 return this$.alandipert$storage_atom$IStorageBackend$_get$arity$2(this$,not_found);
 } else {
-return alandipert$storage_atom$IStorageBackend$_get$dyn_22484.call(null,this$,not_found);
+return alandipert$storage_atom$IStorageBackend$_get$dyn_22503.call(null,this$,not_found);
 }
 });
 
-var alandipert$storage_atom$IStorageBackend$_commit_BANG_$dyn_22485 = (function (this$,value){
+var alandipert$storage_atom$IStorageBackend$_commit_BANG_$dyn_22504 = (function (this$,value){
 var x__4428__auto__ = (((this$ == null))?null:this$);
 var m__4429__auto__ = (alandipert.storage_atom._commit_BANG_[goog.typeOf(x__4428__auto__)]);
 if((!((m__4429__auto__ == null)))){
@@ -62,7 +62,7 @@ alandipert.storage_atom._commit_BANG_ = (function alandipert$storage_atom$_commi
 if((((!((this$ == null)))) && ((!((this$.alandipert$storage_atom$IStorageBackend$_commit_BANG_$arity$2 == null)))))){
 return this$.alandipert$storage_atom$IStorageBackend$_commit_BANG_$arity$2(this$,value);
 } else {
-return alandipert$storage_atom$IStorageBackend$_commit_BANG_$dyn_22485.call(null,this$,value);
+return alandipert$storage_atom$IStorageBackend$_commit_BANG_$dyn_22504.call(null,this$,value);
 }
 });
 
@@ -147,17 +147,17 @@ alandipert.storage_atom._commit_BANG_.call(null,backend,cljs.core.deref.call(nul
 cljs.core.reset_BANG_.call(null,atom,existing);
 }
 
-var G__22490 = atom;
-cljs.core.add_watch.call(null,G__22490,new cljs.core.Keyword("alandipert.storage-atom","storage-watch","alandipert.storage-atom/storage-watch",1159565749),(function (p1__22488_SHARP_,p2__22489_SHARP_,p3__22486_SHARP_,p4__22487_SHARP_){
+var G__22509 = atom;
+cljs.core.add_watch.call(null,G__22509,new cljs.core.Keyword("alandipert.storage-atom","storage-watch","alandipert.storage-atom/storage-watch",1159565749),(function (p1__22507_SHARP_,p2__22508_SHARP_,p3__22505_SHARP_,p4__22506_SHARP_){
 if(cljs.core.truth_((function (){var and__4115__auto__ = alandipert.storage_atom._STAR_watch_active_STAR_;
 if(cljs.core.truth_(and__4115__auto__)){
-return cljs.core.not_EQ_.call(null,p3__22486_SHARP_,p4__22487_SHARP_);
+return cljs.core.not_EQ_.call(null,p3__22505_SHARP_,p4__22506_SHARP_);
 } else {
 return and__4115__auto__;
 }
 })())){
 return debounce.call(null,(function (){
-return alandipert.storage_atom._commit_BANG_.call(null,backend,p4__22487_SHARP_);
+return alandipert.storage_atom._commit_BANG_.call(null,backend,p4__22506_SHARP_);
 }),(function (){var or__4126__auto__ = alandipert.storage_atom._STAR_storage_delay_STAR_;
 if(cljs.core.truth_(or__4126__auto__)){
 return or__4126__auto__;
@@ -170,25 +170,25 @@ return null;
 }
 }));
 
-return G__22490;
+return G__22509;
 });
 alandipert.storage_atom.maybe_update_backend = (function alandipert$storage_atom$maybe_update_backend(atom,storage,k,default$,e){
 if((storage === e.storageArea)){
 if(cljs.core.empty_QMARK_.call(null,e.key)){
-var _STAR_watch_active_STAR__orig_val__22491 = alandipert.storage_atom._STAR_watch_active_STAR_;
-var _STAR_watch_active_STAR__temp_val__22492 = false;
-(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__temp_val__22492);
+var _STAR_watch_active_STAR__orig_val__22510 = alandipert.storage_atom._STAR_watch_active_STAR_;
+var _STAR_watch_active_STAR__temp_val__22511 = false;
+(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__temp_val__22511);
 
 try{return cljs.core.reset_BANG_.call(null,atom,default$);
-}finally {(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__orig_val__22491);
+}finally {(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__orig_val__22510);
 }} else {
 try{var temp__5720__auto__ = alandipert.storage_atom.json__GT_clj.call(null,e.key);
 if(cljs.core.truth_(temp__5720__auto__)){
 var sk = temp__5720__auto__;
 if(cljs.core._EQ_.call(null,sk,k)){
-var _STAR_watch_active_STAR__orig_val__22494 = alandipert.storage_atom._STAR_watch_active_STAR_;
-var _STAR_watch_active_STAR__temp_val__22495 = false;
-(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__temp_val__22495);
+var _STAR_watch_active_STAR__orig_val__22513 = alandipert.storage_atom._STAR_watch_active_STAR_;
+var _STAR_watch_active_STAR__temp_val__22514 = false;
+(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__temp_val__22514);
 
 try{return cljs.core.reset_BANG_.call(null,atom,(function (){var value = e.newValue;
 if((!(clojure.string.blank_QMARK_.call(null,value)))){
@@ -197,14 +197,14 @@ return alandipert.storage_atom.json__GT_clj.call(null,value);
 return default$;
 }
 })());
-}finally {(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__orig_val__22494);
+}finally {(alandipert.storage_atom._STAR_watch_active_STAR_ = _STAR_watch_active_STAR__orig_val__22513);
 }} else {
 return null;
 }
 } else {
 return null;
 }
-}catch (e22493){var e__$1 = e22493;
+}catch (e22512){var e__$1 = e22512;
 return null;
 }}
 } else {
@@ -213,8 +213,8 @@ return null;
 });
 alandipert.storage_atom.link_storage = (function alandipert$storage_atom$link_storage(atom,storage,k){
 var default$ = cljs.core.deref.call(null,atom);
-return window.addEventListener("storage",(function (p1__22496_SHARP_){
-return alandipert.storage_atom.maybe_update_backend.call(null,atom,storage,k,default$,p1__22496_SHARP_);
+return window.addEventListener("storage",(function (p1__22515_SHARP_){
+return alandipert.storage_atom.maybe_update_backend.call(null,atom,storage,k,default$,p1__22515_SHARP_);
 }));
 });
 /**
@@ -281,4 +281,4 @@ alandipert.storage_atom.remove_session_storage_BANG_ = (function alandipert$stor
 return alandipert.storage_atom.remove_html_storage_BANG_.call(null,sessionStorage,k);
 });
 
-//# sourceMappingURL=storage_atom.js.map?rel=1607206815374
+//# sourceMappingURL=storage_atom.js.map?rel=1607284805076

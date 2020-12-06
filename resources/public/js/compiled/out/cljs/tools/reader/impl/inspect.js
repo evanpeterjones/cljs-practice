@@ -126,8 +126,8 @@ return cljs.core.pr_str.call(null,cljs.core.type.call(null,x));
  * the inspection.
  */
 cljs.tools.reader.impl.inspect.inspect = (function cljs$tools$reader$impl$inspect$inspect(var_args){
-var G__23833 = arguments.length;
-switch (G__23833) {
+var G__33386 = arguments.length;
+switch (G__33386) {
 case 1:
 return cljs.tools.reader.impl.inspect.inspect.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -153,4 +153,4 @@ return cljs.tools.reader.impl.inspect.inspect_STAR_.call(null,truncate,x);
 (cljs.tools.reader.impl.inspect.inspect.cljs$lang$maxFixedArity = 2);
 
 
-//# sourceMappingURL=inspect.js.map?rel=1607206816725
+//# sourceMappingURL=inspect.js.map?rel=1607284881974

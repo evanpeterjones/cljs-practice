@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/evanjones\/Code\/cljs-practice\/docs\/devtools\/context.js","sources":["context.cljs?rel=1607231746427"],"lineCount":11,"mappings":";AAAA;;AAGA,4BAAA,5BAAgBA;AAAhB,AACEC;;AAEF,+BAAA,\/BAAgBC;AAAhB,AACE,OAAW,AAACF","names":["devtools.context\/get-root","goog\/global","devtools.context\/get-console"]}

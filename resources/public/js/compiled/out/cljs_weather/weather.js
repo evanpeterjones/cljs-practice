@@ -10,9 +10,9 @@ cljs.core.swap_BANG_.call(null,state,cljs.core.assoc,new cljs.core.Keyword(null,
 
 return cljs.core.swap_BANG_.call(null,state,cljs.core.assoc,new cljs.core.Keyword(null,"y-loc","y-loc",86184118),loc.coords.longitude);
 } else {
-cljs.core.swap_BANG_.call(null,state,cljs.core.update_in,new cljs.core.Keyword(null,"x-loc","x-loc",-298508920),"No Location data");
+cljs.core.swap_BANG_.call(null,state,cljs.core.assoc,new cljs.core.Keyword(null,"x-loc","x-loc",-298508920),"No Location data");
 
-return cljs.core.swap_BANG_.call(null,state,cljs.core.update_in,new cljs.core.Keyword(null,"y-loc","y-loc",86184118),"No Location data");
+return cljs.core.swap_BANG_.call(null,state,cljs.core.assoc,new cljs.core.Keyword(null,"y-loc","y-loc",86184118),"No Location data");
 }
 });
 cljs_weather.weather.handle_response_BANG_ = (function cljs_weather$weather$handle_response_BANG_(resp,app_state){
@@ -35,4 +35,4 @@ cljs_weather.weather.get_forecast_BANG_ = (function cljs_weather$weather$get_for
 return ajax.core.GET.call(null,cljs_weather.weather.api_url,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"params","params",710516235),(cljs.core.truth_(new cljs.core.Keyword(null,"postal-code","postal-code",368585871).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state)))?new cljs.core.PersistentArrayMap(null, 3, ["zip",new cljs.core.Keyword(null,"postal-code","postal-code",368585871).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state)),"appid","3c612cd1a014cd6ce89c67d4cca25f39","units",new cljs.core.Keyword(null,"units","units",-533089095).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state))], null):new cljs.core.PersistentArrayMap(null, 4, ["lat",new cljs.core.Keyword(null,"x-loc","x-loc",-298508920).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state)),"lon",new cljs.core.Keyword(null,"y-loc","y-loc",86184118).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state)),"appid","3c612cd1a014cd6ce89c67d4cca25f39","units",new cljs.core.Keyword(null,"units","units",-533089095).cljs$core$IFn$_invoke$arity$1(cljs.core.deref.call(null,app_state))], null)),new cljs.core.Keyword(null,"handler","handler",-195596612),cljs_weather.weather.handle_response_BANG_], null));
 });
 
-//# sourceMappingURL=weather.js.map?rel=1607209869821
+//# sourceMappingURL=weather.js.map?rel=1607291336245

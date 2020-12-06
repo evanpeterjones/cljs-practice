@@ -1,8 +1,7 @@
 (ns cljs-weather.components.card
-  (:require ;[cljs-weather.core :refer [app-state]]
-   [cljs-weather.css :refer [font]]
-   [reagent.core :refer [atom]]
-   [reagent.dom :as dom]))
+  (:require [cljs-weather.css :refer [font]]
+            [reagent.core :refer [atom]]
+            [reagent.dom :as dom]))
 
 (def card-css {:box-shadow "0 8px 16px 0 rgba(0,0,0,.2)"
                                         ;               :background-color "white"

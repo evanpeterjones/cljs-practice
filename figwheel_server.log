@@ -11662,3 +11662,2694 @@ notifying browser that file changed:  resources/public/js/compiled/out/cljs_weat
 Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
 [32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.322 seconds.[0m
 notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 3.237 seconds.[0m
+notifying browser that file changed:  docs/goog/deps.js
+notifying browser that file changed:  docs/cljs_deps.js
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 6.306 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 3.609 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.81 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.362 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.399 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.414 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.524 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.588 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "docs/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "docs/index.js" in 1.452 seconds.[0m
+notifying browser that file changed:  docs/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.281 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.52 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.417 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.447 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.674 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.629 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.637 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.265 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.544 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.189 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.903 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.967 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.575 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.428 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.556 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:70  column:5  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/navbar[0m
+
+  [36m66[0m  [36m            :on-click #(get-forecast! app-state)}]])[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m(defn app [][0m
+  [36m69[0m  [36m  [:div.app[0m
+  [33m70[0m  [1m   [navbar[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var cljs-weather.core/navbar[0m
+  [36m71[0m  [36m    [title]][0m
+  [36m72[0m  [36m   [links social-links][0m
+  [36m73[0m  [36m   [links listen-links][0m
+  [36m74[0m  [36m   ])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.667 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.959 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:70  column:5  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/navbar[0m
+
+  [36m66[0m  [36m            :on-click #(get-forecast! app-state)}]])[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m(defn app [][0m
+  [36m69[0m  [36m  [:div.app[0m
+  [33m70[0m  [1m   [navbar][0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var cljs-weather.core/navbar[0m
+  [36m71[0m  [36m   [links social-links][0m
+  [36m72[0m  [36m   [links listen-links][0m
+  [36m73[0m  [36m   ])[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m(dom/render [app] (.getElementById js/document "app"))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.607 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.115 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.295 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.434 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.482 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.531 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.466 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.607 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.437 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.042 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.108 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.379 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:47 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 47, col 50] Unmatched delimiter ].[0m
+
+  [36m45[0m  [36m         [:a {:href (str host "/home/")} "Home"][0m
+  [36m46[0m  [36m         [:a {:href (str host "/about/")} "About"][0m
+  [33m47[0m  [1m         [:a {:href (str host "/test/")} "Test"]])[0m
+  [0m  [0m  [33m         /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 47, col 50] Unmatched delimiter ].[0m
+  [36m48[0m  [36m[0m
+  [36m49[0m  [36m(defroute "/" {:as params}[0m
+  [36m50[0m  [36m          (js/console.log (str "home ")))[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.629 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.738 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.381 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:50 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 50, col 22] Unmatched delimiter ).[0m
+
+  [36m48[0m  [36m       [div.col-xs[0m
+  [36m49[0m  [36m        [:a {:href (str host "/home/")} "Home"]][0m
+  [33m50[0m  [1m       [div.col=xs]])])[0m
+  [0m  [0m  [33m       /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 50, col 22] Unmatched delimiter ).[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defroute "/" {:as params}[0m
+  [36m53[0m  [36m          (js/console.log (str "home ")))[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.409 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.341 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:45  column:6  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/div[0m
+
+  [36m42[0m  [36m(defn navbar [][0m
+  [36m43[0m  [36m  [:div.navbar[0m
+  [36m44[0m  [36m   [card[0m
+  [33m45[0m  [1m    [div {:class  container-fluid}[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var cljs-weather.core/div[0m
+  [36m46[0m  [36m     [:img.title {:src "title.png"}][0m
+  [36m47[0m  [36m     [div.row[0m
+  [36m48[0m  [36m      [div.col-xs-3[0m
+  [36m49[0m  [36m       [:a {:href (str host "/home/")} "Home"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:45  column:19  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/container-fluid[0m
+
+  [36m42[0m  [36m(defn navbar [][0m
+  [36m43[0m  [36m  [:div.navbar[0m
+  [36m44[0m  [36m   [card[0m
+  [33m45[0m  [1m    [div {:class  container-fluid}[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var cljs-weather.core/container-fluid[0m
+  [36m46[0m  [36m     [:img.title {:src "title.png"}][0m
+  [36m47[0m  [36m     [div.row[0m
+  [36m48[0m  [36m      [div.col-xs-3[0m
+  [36m49[0m  [36m       [:a {:href (str host "/home/")} "Home"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.781 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:45  column:6  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/div[0m
+
+  [36m42[0m  [36m(defn navbar [][0m
+  [36m43[0m  [36m  [:div.navbar[0m
+  [36m44[0m  [36m   [card[0m
+  [33m45[0m  [1m    [div {:class "container-fluid"}[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var cljs-weather.core/div[0m
+  [36m46[0m  [36m     [:img.title {:src "title.png"}][0m
+  [36m47[0m  [36m     [div.row[0m
+  [36m48[0m  [36m      [div.col-xs-3[0m
+  [36m49[0m  [36m       [:a {:href (str host "/home/")} "Home"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.042 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.469 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.451 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:20  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m                   ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:26  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m                         ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:25  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m                        ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:44  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [33m60[0m  [1m          (js/console.log (str "test" (:id params))))[0m
+  [0m  [0m  [33m                                           ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+  [36m65[0m  [36m    [:h2 (:label temp)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.509 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.681 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.004 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:20  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m                   ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:26  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m                         ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:25  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m                        ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:44  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [33m60[0m  [1m          (js/console.log (str "test" (:id params))))[0m
+  [0m  [0m  [33m                                           ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+  [36m65[0m  [36m    [:h2 (:label temp)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.304 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:53  column:20  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m49[0m  [36m       [:a {:href (str host "/about/")} "About"]][0m
+  [36m50[0m  [36m      [div.col-xs-3[0m
+  [36m51[0m  [36m       [:a {:href (str host "/test/")} "Test"]]]]]])[0m
+  [36m52[0m  [36m[0m
+  [33m53[0m  [1m(defroute "/" {:as params}[0m
+  [0m  [0m  [33m                   ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:56  column:26  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m53[0m  [36m(defroute "/" {:as params}[0m
+  [36m54[0m  [36m          (js/console.log (str "home ")))[0m
+  [36m55[0m  [36m[0m
+  [33m56[0m  [1m(defroute "/about/" {:as params}[0m
+  [0m  [0m  [33m                         ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defroute[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defroute[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:59  column:25  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [33m59[0m  [1m(defroute "/test/" {:as params}[0m
+  [0m  [0m  [33m                        ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m60[0m  [36m          (js/console.log (str "test" (:id params))))[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:44  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/params[0m
+
+  [36m56[0m  [36m(defroute "/about/" {:as params}[0m
+  [36m57[0m  [36m          (js/console.log (str "about ")))[0m
+  [36m58[0m  [36m[0m
+  [36m59[0m  [36m(defroute "/test/" {:as params}[0m
+  [33m60[0m  [1m          (js/console.log (str "test" (:id params))))[0m
+  [0m  [0m  [33m                                           ^--- Use of undeclared Var cljs-weather.core/params[0m
+  [36m61[0m  [36m[0m
+  [36m62[0m  [36m(defn temperature [temp][0m
+  [36m63[0m  [36m  [:div.left[0m
+  [36m64[0m  [36m   [:div.temperature[0m
+  [36m65[0m  [36m    [:h2 (:label temp)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.219 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.633 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:43  column:6  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/div[0m
+
+  [36m40[0m  [36m(defn navbar [][0m
+  [36m41[0m  [36m  [:div.navbar[0m
+  [36m42[0m  [36m   [card[0m
+  [33m43[0m  [1m    [div[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var cljs-weather.core/div[0m
+  [36m44[0m  [36m     [:img.title {:src "title.png"}][0m
+  [36m45[0m  [36m     [div.row[0m
+  [36m46[0m  [36m      [div.col-xs-3[0m
+  [36m47[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]][0m
+  [36m48[0m  [36m      [div.col-xs-3[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.917 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.75 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.166 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.379 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:44  column:6  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/div[0m
+
+  [36m40[0m  [36m(defn navbar [][0m
+  [36m41[0m  [36m  [:div.navbar[0m
+  [36m42[0m  [36m   [card[0m
+  [36m43[0m  [36m    [:img.title {:src "title.png"}][0m
+  [33m44[0m  [1m    [div[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var cljs-weather.core/div[0m
+  [36m45[0m  [36m     [:button {:on-click #(js/alert "test")} "Home"]]]])[0m
+  [36m46[0m  [36m[0m
+  [36m47[0m  [36m(defn temperature [temp][0m
+  [36m48[0m  [36m  [:div.left[0m
+  [36m49[0m  [36m   [:div.temperature[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.604 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.37 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:41  column:3  ----[0m
+
+  [1mWrong number of args (0) passed to cljs.core/swap![0m
+
+  [36m38[0m  [36m(def host "https://localhost:3449")[0m
+  [36m39[0m  [36m[0m
+  [36m40[0m  [36m(defn swap-view! [component][0m
+  [33m41[0m  [1m  (swap! ))[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (0) passed to cljs.core/swap![0m
+  [36m42[0m  [36m[0m
+  [36m43[0m  [36m(defn navbar [][0m
+  [36m44[0m  [36m  [:div.navbar[0m
+  [36m45[0m  [36m   [card[0m
+  [36m46[0m  [36m    [:img.title {:src "title.png"}][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.792 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Figwheel: Can't open  ("src/cljs_weather/core.cljs" 41 3) No :open-file-command supplied in the config.
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.512 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.459 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mNo such namespace: hiccups.runtime, could not locate hiccups/runtime.cljs, hiccups/runtime.cljc, or JavaScript source providing "hiccups.runtime" [0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.347 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.352 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.316 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.315 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.403 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs  ----[0m
+
+  [1mCould not locate hiccups/core__init.class, hiccups/core.clj or hiccups/core.cljc on classpath.[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:41  column:3  ----[0m
+
+  [1mWrong number of args (0) passed to cljs.core/swap![0m
+
+  [36m38[0m  [36m(def host "https://localhost:3449")[0m
+  [36m39[0m  [36m[0m
+  [36m40[0m  [36m(defn swap-view! [component][0m
+  [33m41[0m  [1m  (swap! ))[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (0) passed to cljs.core/swap![0m
+  [36m42[0m  [36m[0m
+  [36m43[0m  [36m(defn navbar [][0m
+  [36m44[0m  [36m  [:div.navbar[0m
+  [36m45[0m  [36m   [card[0m
+  [36m46[0m  [36m    [:img.title {:src "title.png"}][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[31mFailed to compile build :dev from ["src"] in 0.555 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:90  column:1  ----[0m
+
+  [1mWrong number of args (2) passed to: cljs.core/aset[0m
+
+  [36m88[0m  [36m   [links listen-links]])[0m
+  [36m89[0m  [36m[0m
+  [33m90[0m  [1m(aset (.getElementById js/document "app") "test")[0m
+  [0m  [0m  [33m^--- Wrong number of args (2) passed to: cljs.core/aset[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:41  column:3  ----[0m
+
+  [1mWrong number of args (0) passed to cljs.core/swap![0m
+
+  [36m38[0m  [36m(def host "https://localhost:3449")[0m
+  [36m39[0m  [36m[0m
+  [36m40[0m  [36m(defn swap-view! [component][0m
+  [33m41[0m  [1m  (swap! ))[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (0) passed to cljs.core/swap![0m
+  [36m42[0m  [36m[0m
+  [36m43[0m  [36m(defn navbar [][0m
+  [36m44[0m  [36m  [:div.navbar[0m
+  [36m45[0m  [36m   [card[0m
+  [36m46[0m  [36m    [:img.title {:src "title.png"}][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 7.703 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.403 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.084 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.655 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.456 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.031 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.615 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.444 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.458 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.967 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/defhtmls[0m
+
+  [36m56[0m  [36m    [:h2 (:label temp)][0m
+  [36m57[0m  [36m    [:div.value[0m
+  [36m58[0m  [36m     (:value temp)]]])[0m
+  [36m59[0m  [36m[0m
+  [33m60[0m  [1m(defhtmls postal-code [state][0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/defhtmls[0m
+  [36m61[0m  [36m  [:div.postal-code[0m
+  [36m62[0m  [36m   [:h3 "Enter your postal code"][0m
+  [36m63[0m  [36m   [:input {:type        "text"[0m
+  [36m64[0m  [36m            :placeholder "Postal Code"[0m
+  [36m65[0m  [36m            :value       (:postal-code @state)[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:11  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/postal-code[0m
+
+  [36m56[0m  [36m    [:h2 (:label temp)][0m
+  [36m57[0m  [36m    [:div.value[0m
+  [36m58[0m  [36m     (:value temp)]]])[0m
+  [36m59[0m  [36m[0m
+  [33m60[0m  [1m(defhtmls postal-code [state][0m
+  [0m  [0m  [33m          ^--- Use of undeclared Var cljs-weather.core/postal-code[0m
+  [36m61[0m  [36m  [:div.postal-code[0m
+  [36m62[0m  [36m   [:h3 "Enter your postal code"][0m
+  [36m63[0m  [36m   [:input {:type        "text"[0m
+  [36m64[0m  [36m            :placeholder "Postal Code"[0m
+  [36m65[0m  [36m            :value       (:postal-code @state)[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:60  column:24  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m56[0m  [36m    [:h2 (:label temp)][0m
+  [36m57[0m  [36m    [:div.value[0m
+  [36m58[0m  [36m     (:value temp)]]])[0m
+  [36m59[0m  [36m[0m
+  [33m60[0m  [1m(defhtmls postal-code [state][0m
+  [0m  [0m  [33m                       ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m61[0m  [36m  [:div.postal-code[0m
+  [36m62[0m  [36m   [:h3 "Enter your postal code"][0m
+  [36m63[0m  [36m   [:input {:type        "text"[0m
+  [36m64[0m  [36m            :placeholder "Postal Code"[0m
+  [36m65[0m  [36m            :value       (:postal-code @state)[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:65  column:41  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m61[0m  [36m  [:div.postal-code[0m
+  [36m62[0m  [36m   [:h3 "Enter your postal code"][0m
+  [36m63[0m  [36m   [:input {:type        "text"[0m
+  [36m64[0m  [36m            :placeholder "Postal Code"[0m
+  [33m65[0m  [1m            :value       (:postal-code @state)[0m
+  [0m  [0m  [33m                                        ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m66[0m  [36m            :on-change   #(swap! state assoc :postal-code (-> % .-target .-value))}][0m
+  [36m67[0m  [36m   [:button "Go"]])[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m(defn location-info [state][0m
+  [36m70[0m  [36m  [:div[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:66  column:34  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m62[0m  [36m   [:h3 "Enter your postal code"][0m
+  [36m63[0m  [36m   [:input {:type        "text"[0m
+  [36m64[0m  [36m            :placeholder "Postal Code"[0m
+  [36m65[0m  [36m            :value       (:postal-code @state)[0m
+  [33m66[0m  [1m            :on-change   #(swap! state assoc :postal-code (-> % .-target .-value))}][0m
+  [0m  [0m  [33m                                 ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m67[0m  [36m   [:button "Go"]])[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m(defn location-info [state][0m
+  [36m70[0m  [36m  [:div[0m
+  [36m71[0m  [36m   [:h1 (:x-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.944 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.491 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.525 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.52 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.33 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.41 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.349 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.215 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.282 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:92  column:13  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/components[0m
+
+  [36m88[0m  [36m(defn swap-view [el component][0m
+  [36m89[0m  [36m  (-> js/document[0m
+  [36m90[0m  [36m      (.getElementById el)[0m
+  [36m91[0m  [36m      (.-innerHtml)[0m
+  [33m92[0m  [1m      (set! components))[0m
+  [0m  [0m  [33m            ^--- Use of undeclared Var cljs-weather.core/components[0m
+  [36m93[0m  [36m  (set! (.-innerHtml el) component))[0m
+  [36m94[0m  [36m[0m
+  [36m95[0m  [36m;(swap-view (.getElementById js/document "app") (html [:h1 "asdf"]))[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(-> js/document[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.766 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.425 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.366 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.528 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.393 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.029 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.446 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.757 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.699 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.375 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.48 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.288 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.314 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.966 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.468 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.424 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.319 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.62 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.59 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.301 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.511 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.856 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.716 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.523 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.604 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.654 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.461 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:40  column:5  ----[0m
+
+  [1mUnknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+
+  [36m38[0m  [36m(defn set-view [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! body "innerHtml" (if (string? component) (html component)[0m
+  [0m  [0m  [33m    ^--- Unknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+  [36m41[0m  [36m                                                   component))))[0m
+  [36m42[0m  [36m[0m
+  [36m43[0m  [36m(defhtml navbar [][0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.406 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:40  column:5  ----[0m
+
+  [1mUnknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+
+  [36m38[0m  [36m(defn set-view [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! body "innerHtml" (if (string? component)[0m
+  [0m  [0m  [33m    ^--- Unknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+  [36m41[0m  [36m                             (html component)[0m
+  [36m42[0m  [36m                             component))))[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.319 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:40  column:5  ----[0m
+
+  [1mUnknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+
+  [36m38[0m  [36m(defn set-view [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! body "innerHtml" (if (string? component)[0m
+  [0m  [0m  [33m    ^--- Unknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+  [36m41[0m  [36m                             (html component)[0m
+  [36m42[0m  [36m                             component))))[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.374 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:40  column:5  ----[0m
+
+  [1mUnknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+
+  [36m38[0m  [36m(defn set-view [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! body "innerHtml" (if (string? component)[0m
+  [0m  [0m  [33m    ^--- Unknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+  [36m41[0m  [36m                             (html component)[0m
+  [36m42[0m  [36m                             component))))[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.326 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:40  column:5  ----[0m
+
+  [1mUnknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+
+  [36m38[0m  [36m(defn set-view! [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! body "innerHtml" (if (string? component)[0m
+  [0m  [0m  [33m    ^--- Unknown dot form of (. body "innerHtml" nil) with classification [:cljs.analyzer/expr :cljs.analyzer/error ()][0m
+  [36m41[0m  [36m                             (html component)[0m
+  [36m42[0m  [36m                             component))))[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:58  column:46  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/postal-code[0m
+
+  [36m54[0m  [36m[:img.title {:src "title.png"}][0m
+  [36m55[0m  [36m[:div.container-fluid[0m
+  [36m56[0m  [36m     [:div.row[0m
+  [36m57[0m  [36m      [:div.col-xs-3[0m
+  [33m58[0m  [1m       [:button {:on-click #(set-view! (postal-code app-state))} "Zip Code"]][0m
+  [0m  [0m  [33m                                        ^--- Use of undeclared Var cljs-weather.core/postal-code[0m
+  [36m59[0m  [36m      [:div.col-xs-3[0m
+  [36m60[0m  [36m       [:button {:on-click #(js/alert "test")} "Hosts"]][0m
+  [36m61[0m  [36m      [:div.col-xs-3[0m
+  [36m62[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.005 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:71  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/å[0m
+
+  [36m67[0m  [36m            [:button {:on-click #(set-view! (postal-code app-state))} "Zip Code"]][0m
+  [36m68[0m  [36m           [:div.col-xs-3[0m
+  [36m69[0m  [36m            [:button {:on-click #(js/alert "test")} "Hosts"]][0m
+  [36m70[0m  [36m           [:div.col-xs-3[0m
+  [33m71[0m  [1m            [:button {:on-click #(js/alert "test")} "Home"]]]])])å[0m
+  [0m  [0m  [33m                                                                 ^--- Use of undeclared Var cljs-weather.core/å[0m
+  [36m72[0m  [36m[0m
+  [36m73[0m  [36m(defhtml location-info [state][0m
+  [36m74[0m  [36m  [:div[0m
+  [36m75[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m76[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.696 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.408 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.35 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:68  column:60  ----[0m
+
+  [1mNested #()s are not allowed[0m
+
+  [36m66[0m  [36m[:div.col-xs-3[0m
+  [36m67[0m  [36m [:button {:on-click #(set-view! (postal-code app-state[0m
+  [33m68[0m  [1m                                              #(swap! state assoc :postal-code (-> % .-target .-value))))} "Zip Code"]][0m
+  [0m  [0m  [33m                                                ^--- Nested #()s are not allowed[0m
+  [36m69[0m  [36m[:div.col-xs-3[0m
+  [36m70[0m  [36m [:button {:on-click #(js/alert "test")} "Hosts"]][0m
+  [36m71[0m  [36m[:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:81  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m63[0m  [36m[:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m     [:div.row[0m
+  [36m66[0m  [36m      [:div.col-xs-3[0m
+  [33m67[0m  [1m       [:button {:on-click #(set-view! (postal-code app-state (fn [] swap! state assoc :postal-code (-> % .-target .-value))))} "Zip Code"]][0m
+  [0m  [0m  [33m                                                                           ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m68[0m  [36m      [:div.col-xs-3[0m
+  [36m69[0m  [36m       [:button {:on-click #(js/alert "test")} "Hosts"]][0m
+  [36m70[0m  [36m      [:div.col-xs-3[0m
+  [36m71[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.173 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.656 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.455 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.36 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:37  ----[0m
+
+  [1mWrong number of args (2) passed to cljs-weather.core/postal-code[0m
+
+  [36m63[0m  [36m[:div.container-fluid[0m
+  [36m64[0m  [36m     [:div.row[0m
+  [36m65[0m  [36m      [:div.col-xs-3[0m
+  [36m66[0m  [36m       [:button[0m
+  [33m67[0m  [1m        {:on-click #(set-view! (postal-code app-state (fn [] (swap! app-state assoc :postal-code (-> % .-target .-value)))))}[0m
+  [0m  [0m  [33m                               ^--- Wrong number of args (2) passed to cljs-weather.core/postal-code[0m
+  [36m68[0m  [36m        "Zip Code"]][0m
+  [36m69[0m  [36m      [:div.col-xs-3[0m
+  [36m70[0m  [36m       [:button {:on-click #(js/alert "test")} "Hosts"]][0m
+  [36m71[0m  [36m      [:div.col-xs-3[0m
+  [36m72[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.69 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.686 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.625 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:97  column:103  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/%[0m
+
+  [36m 94[0m  [36m(-> js/document[0m
+  [36m 95[0m  [36m    (.getElementById "app")[0m
+  [36m 96[0m  [36m    (.-innerHTML)[0m
+  [33m 97[0m  [1m    (set! (html (postal-code (:postal-code @app-state) (fn [] (swap! app-state assoc :postal-code (-> % .-target .-value)))))[0m
+  [0m   [0m  [33m                                                                                                      ^--- Use of undeclared Var cljs-weather.core/%[0m
+  [36m 98[0m  [36m      (html (app))))[0m
+  [36m 99[0m  [36m[0m
+  [36m100[0m  [36m(js/console.log (html [:h1 "asdf"]))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[31mFailed to compile build :dev from ["src"] in 0.72 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:97  column:5  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 97 src/cljs_weather/core.cljs[0m
+
+  [36m 95[0m  [36m    (.getElementById "app")[0m
+  [36m 96[0m  [36m    (.-innerHTML)[0m
+  [33m 97[0m  [1m    (set! (html (postal-code (:postal-code @app-state) (fn [] (swap! app-state assoc :postal-code (-> % .-target .-value)))))[0m
+  [0m   [0m  [33m    ^--- set! target must be a field or a symbol naming a var at line 97 src/cljs_weather/core.cljs[0m
+  [36m 98[0m  [36m      (html (app))))[0m
+  [36m 99[0m  [36m[0m
+  [36m100[0m  [36m(js/console.log (html [:h1 "asdf"]))[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:97  column:103  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/%[0m
+
+  [36m94[0m  [36m(-> js/document[0m
+  [36m95[0m  [36m    (.getElementById "app")[0m
+  [36m96[0m  [36m    (.-innerHTML)[0m
+  [33m97[0m  [1m    (set! (html (postal-code (:postal-code @app-state) (fn [] (swap! app-state assoc :postal-code (-> % .-target .-value)))))))[0m
+  [0m  [0m  [33m                                                                                                      ^--- Use of undeclared Var cljs-weather.core/%[0m
+  [36m98[0m  [36m[0m
+  [36m99[0m  [36m(js/console.log (html [:h1 "asdf"]))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.354 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.345 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.316 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.336 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.3 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.526 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.384 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:40 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 40, col 50] Unmatched delimiter ).[0m
+
+  [36m38[0m  [36m(defn set-view! [component][0m
+  [36m39[0m  [36m  (let [body (.getElementById js/document "body")][0m
+  [33m40[0m  [1m    (set! (.-innerHtml body) (html component)))))[0m
+  [0m  [0m  [33m    /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 40, col 50] Unmatched delimiter ).[0m
+  [36m41[0m  [36m[0m
+  [36m42[0m  [36m(defhtml temperature [temp][0m
+  [36m43[0m  [36m         [:div.left[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.484 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:92  column:1  ----[0m
+
+  [1mWrong number of args (2) passed to cljs-weather.core/set-view![0m
+
+  [36m88[0m  [36m    [:div#body[0m
+  [36m89[0m  [36m     (links social-links)[0m
+  [36m90[0m  [36m     (links listen-links)]])[0m
+  [36m91[0m  [36m[0m
+  [33m92[0m  [1m(set-view! "app" (app))[0m
+  [0m  [0m  [33m^--- Wrong number of args (2) passed to cljs-weather.core/set-view![0m
+  [36m93[0m  [36m(-> js/document[0m
+  [36m94[0m  [36m    (.getElementById "app")[0m
+  [36m95[0m  [36m    (.-innerHTML)[0m
+  [36m96[0m  [36m    (set! (html (app))))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.787 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:92  column:1  ----[0m
+
+  [1mWrong number of args (2) passed to cljs-weather.core/set-view![0m
+
+  [36m88[0m  [36m    [:div#body[0m
+  [36m89[0m  [36m     (links social-links)[0m
+  [36m90[0m  [36m     (links listen-links)]])[0m
+  [36m91[0m  [36m[0m
+  [33m92[0m  [1m(set-view! "app" (app))[0m
+  [0m  [0m  [33m^--- Wrong number of args (2) passed to cljs-weather.core/set-view![0m
+  [36m93[0m  [36m[0m
+  [36m94[0m  [36m(js/console.log (html [:h1 "asdf"]))[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.613 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.353 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.282 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.29 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.41 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.339 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.322 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.703 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.628 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.417 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.399 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.324 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.421 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.325 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.409 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.4 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.348 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.305 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:76  column:18  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m72[0m  [36m            [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+  [36m73[0m  [36m[0m
+  [36m74[0m  [36m(defhtml location-info [][0m
+  [36m75[0m  [36m  [:div[0m
+  [33m76[0m  [1m   [:h1 (:x-loc @state)][0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m77[0m  [36m   [:h1 (:y-loc @state)][0m
+  [36m78[0m  [36m   [:input {:type     "button"[0m
+  [36m79[0m  [36m            :value    "Get Location"[0m
+  [36m80[0m  [36m            :on-click #(.getCurrentPosition js/navigator.geolocation.[0m
+  [36m81[0m  [36m                                            (fn [x] (get-location! x app-state)))}][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:77  column:18  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m74[0m  [36m(defhtml location-info [][0m
+  [36m75[0m  [36m  [:div[0m
+  [36m76[0m  [36m   [:h1 (:x-loc @state)][0m
+  [33m77[0m  [1m   [:h1 (:y-loc @state)][0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m78[0m  [36m   [:input {:type     "button"[0m
+  [36m79[0m  [36m            :value    "Get Location"[0m
+  [36m80[0m  [36m            :on-click #(.getCurrentPosition js/navigator.geolocation.[0m
+  [36m81[0m  [36m                                            (fn [x] (get-location! x app-state)))}][0m
+  [36m82[0m  [36m   [:input {:type     "button"[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:90  column:6  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/location-info[0m
+
+  [36m86[0m  [36m(defhtml app [][0m
+  [36m87[0m  [36m   [:div.app[0m
+  [36m88[0m  [36m    (navbar)[0m
+  [36m89[0m  [36m    [:div#body[0m
+  [33m90[0m  [1m     (location-info app-state)[0m
+  [0m  [0m  [33m     ^--- Wrong number of args (1) passed to cljs-weather.core/location-info[0m
+  [36m91[0m  [36m     (links social-links)[0m
+  [36m92[0m  [36m     (links listen-links)]])[0m
+  [36m93[0m  [36m[0m
+  [36m94[0m  [36m(-> js/document[0m
+  [36m95[0m  [36m    (.getElementById "app")[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:90  column:6  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/location-info[0m
+
+  [36m86[0m  [36m(defhtml app [][0m
+  [36m87[0m  [36m   [:div.app[0m
+  [36m88[0m  [36m    (navbar)[0m
+  [36m89[0m  [36m    [:div#body[0m
+  [33m90[0m  [1m     (location-info app-state)[0m
+  [0m  [0m  [33m     ^--- Wrong number of args (1) passed to cljs-weather.core/location-info[0m
+  [36m91[0m  [36m     (links social-links)[0m
+  [36m92[0m  [36m     (links listen-links)]])[0m
+  [36m93[0m  [36m[0m
+  [36m94[0m  [36m(-> js/document[0m
+  [36m95[0m  [36m    (.getElementById "app")[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.455 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:78  column:18  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m74[0m  [36m            [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+  [36m75[0m  [36m[0m
+  [36m76[0m  [36m(defhtml location-info [][0m
+  [36m77[0m  [36m  [:div[0m
+  [33m78[0m  [1m   [:h1 (:x-loc @state)][0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m79[0m  [36m   [:h1 (:y-loc @state)][0m
+  [36m80[0m  [36m   [:input {:type     "button"[0m
+  [36m81[0m  [36m            :value    "Get Location"[0m
+  [36m82[0m  [36m            :on-click #(.getCurrentPosition js/navigator.geolocation.[0m
+  [36m83[0m  [36m                                            (fn [x] (get-location! x app-state)))}][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:79  column:18  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/state[0m
+
+  [36m76[0m  [36m(defhtml location-info [][0m
+  [36m77[0m  [36m  [:div[0m
+  [36m78[0m  [36m   [:h1 (:x-loc @state)][0m
+  [33m79[0m  [1m   [:h1 (:y-loc @state)][0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var cljs-weather.core/state[0m
+  [36m80[0m  [36m   [:input {:type     "button"[0m
+  [36m81[0m  [36m            :value    "Get Location"[0m
+  [36m82[0m  [36m            :on-click #(.getCurrentPosition js/navigator.geolocation.[0m
+  [36m83[0m  [36m                                            (fn [x] (get-location! x app-state)))}][0m
+  [36m84[0m  [36m   [:input {:type     "button"[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:92  column:6  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/location-info[0m
+
+  [36m88[0m  [36m(defhtml app [][0m
+  [36m89[0m  [36m   [:div.app[0m
+  [36m90[0m  [36m    (navbar)[0m
+  [36m91[0m  [36m    [:div#body[0m
+  [33m92[0m  [1m     (location-info app-state)[0m
+  [0m  [0m  [33m     ^--- Wrong number of args (1) passed to cljs-weather.core/location-info[0m
+  [36m93[0m  [36m     (links social-links)[0m
+  [36m94[0m  [36m     (links listen-links)]])[0m
+  [36m95[0m  [36m[0m
+  [36m96[0m  [36m(-> js/document[0m
+  [36m97[0m  [36m    (.getElementById "app")[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:92  column:6  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/location-info[0m
+
+  [36m88[0m  [36m(defhtml app [][0m
+  [36m89[0m  [36m   [:div.app[0m
+  [36m90[0m  [36m    (navbar)[0m
+  [36m91[0m  [36m    [:div#body[0m
+  [33m92[0m  [1m     (location-info app-state)[0m
+  [0m  [0m  [33m     ^--- Wrong number of args (1) passed to cljs-weather.core/location-info[0m
+  [36m93[0m  [36m     (links social-links)[0m
+  [36m94[0m  [36m     (links listen-links)]])[0m
+  [36m95[0m  [36m[0m
+  [36m96[0m  [36m(-> js/document[0m
+  [36m97[0m  [36m    (.getElementById "app")[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.846 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.292 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.283 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.335 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/weather.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.361 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.262 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.417 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:71 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 71, col 26] The map literal starting with :type on line 69 column 14 contains 5 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m69[0m  [36m  {:type "button"[0m
+  [36m70[0m  [36m   :value "Zip Code"[0m
+  [33m71[0m  [1m   :on-click }]][0m
+  [0m  [0m  [33m   /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 71, col 26] The map literal starting with :type on line 69 column 14 contains 5 form(s). Map literals must contain an even number of forms.[0m
+  [36m72[0m  [36m[:div.col-xs-3[0m
+  [36m73[0m  [36m [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m74[0m  [36m[:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.934 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.488 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.46 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.374 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.57 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.095 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.361 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.398 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:73  column:42  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/app[0m
+
+  [36m69[0m  [36m   :value "Zip Code"[0m
+  [36m70[0m  [36m   :onclick #(-> js/document[0m
+  [36m71[0m  [36m                 (.getElementById "app")[0m
+  [36m72[0m  [36m                 (.-innerHTML)[0m
+  [33m73[0m  [1m                 (set! (html (app))))}]][0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var cljs-weather.core/app[0m
+  [36m74[0m  [36m[:div.col-xs-3[0m
+  [36m75[0m  [36m [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m76[0m  [36m[:div.col-xs-3[0m
+  [36m77[0m  [36m [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.643 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.261 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.27 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.452 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.376 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.375 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.355 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.312 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.385 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.311 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.329 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.349 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.364 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.309 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.771 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.398 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:70 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 70, col 65] The map literal starting with :value on line 70 column 21 contains 5 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m68[0m  [36m[:div.row[0m
+  [36m69[0m  [36m [:div.col-xs-3[0m
+  [33m70[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick }]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 70, col 65] The map literal starting with :value on line 70 column 21 contains 5 form(s). Map literals must contain an even number of forms.[0m
+  [36m71[0m  [36m [:div.col-xs-3[0m
+  [36m72[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m73[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.317 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.42 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.808 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.415 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.431 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.567 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.459 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.267 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.383 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:70 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 70, col 24] A single colon is not a valid keyword.[0m
+
+  [36m68[0m  [36m[:div.row[0m
+  [36m69[0m  [36m [:div.col-xs-3[0m
+  [33m70[0m  [1m  [:input {: :value "Zip Code" :type "button"}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 70, col 24] A single colon is not a valid keyword.[0m
+  [36m71[0m  [36m [:div.col-xs-3[0m
+  [36m72[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m73[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.265 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.273 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.334 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:78  column:11  ----[0m
+
+  [1mUnknown dot form of (. nil -onclick nil) with classification [:cljs.analyzer/error :cljs.analyzer/property ()][0m
+
+  [36m76[0m  [36m(defn add-listener [id fn][0m
+  [36m77[0m  [36m  (let [el (.getElementById "zipcode")][0m
+  [33m78[0m  [1m    (set! (.-onclick))))[0m
+  [0m  [0m  [33m          ^--- Unknown dot form of (. nil -onclick nil) with classification [:cljs.analyzer/error :cljs.analyzer/property ()][0m
+  [36m79[0m  [36m[0m
+  [36m80[0m  [36m(defhtml location-info [state][0m
+  [36m81[0m  [36m  [:div[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.29 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.305 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.333 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.352 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.334 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.392 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.334 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.334 seconds.[0m
+[36m----  Could not Compile  src/cljs_weather/core.cljs  ----[0m
+
+  [1mfailed compiling file:src/cljs_weather/core.cljs[0m
+
+[36m----  Compiler Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.274 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:81  column:1  ----[0m
+
+  [1mWrong number of args (0) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m77[0m  [36m  (-> (.getElementById id)[0m
+  [36m78[0m  [36m      (.-onclick)[0m
+  [36m79[0m  [36m      (set! fn)))[0m
+  [36m80[0m  [36m[0m
+  [33m81[0m  [1m(add-click-listener-by-id )[0m
+  [0m  [0m  [33m^--- Wrong number of args (0) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(defhtml location-info [state][0m
+  [36m84[0m  [36m  [:div[0m
+  [36m85[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m86[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:81  column:1  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m77[0m  [36m  (-> (.getElementById id)[0m
+  [36m78[0m  [36m      (.-onclick)[0m
+  [36m79[0m  [36m      (set! fn)))[0m
+  [36m80[0m  [36m[0m
+  [33m81[0m  [1m(add-click-listener-by-id "")[0m
+  [0m  [0m  [33m^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(defhtml location-info [state][0m
+  [36m84[0m  [36m  [:div[0m
+  [36m85[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m86[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.424 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:81  column:1  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m77[0m  [36m  (-> (.getElementById id)[0m
+  [36m78[0m  [36m      (.-onclick)[0m
+  [36m79[0m  [36m      (set! fn))  nil)[0m
+  [36m80[0m  [36m[0m
+  [33m81[0m  [1m(add-click-listener-by-id "")[0m
+  [0m  [0m  [33m^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(defhtml location-info [state][0m
+  [36m84[0m  [36m  [:div[0m
+  [36m85[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m86[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.403 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:81  column:1  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m77[0m  [36m  (-> (.getElementById id)[0m
+  [36m78[0m  [36m      (.-onclick)[0m
+  [36m79[0m  [36m      (set! fn)) nil)[0m
+  [36m80[0m  [36m[0m
+  [33m81[0m  [1m(add-click-listener-by-id "")[0m
+  [0m  [0m  [33m^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(defhtml location-info [state][0m
+  [36m84[0m  [36m  [:div[0m
+  [36m85[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m86[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.432 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:76  column:2  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m72[0m  [36m            [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m73[0m  [36m           [:div.col-xs-3[0m
+  [36m74[0m  [36m            [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+  [36m75[0m  [36m[0m
+  [33m76[0m  [1m(add-click-listener-by-id "")[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var cljs-weather.core/add-click-listener-by-id[0m
+  [36m77[0m  [36m[0m
+  [36m78[0m  [36m(defhtml location-info [state][0m
+  [36m79[0m  [36m  [:div[0m
+  [36m80[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m81[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.429 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:81  column:1  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m77[0m  [36m            [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m78[0m  [36m           [:div.col-xs-3[0m
+  [36m79[0m  [36m            [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+  [36m80[0m  [36m[0m
+  [33m81[0m  [1m(add-click-listener-by-id "")[0m
+  [0m  [0m  [33m^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(defhtml location-info [state][0m
+  [36m84[0m  [36m  [:div[0m
+  [36m85[0m  [36m   [:h1 (:x-loc @state)][0m
+  [36m86[0m  [36m   [:h1 (:y-loc @state)][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.416 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.316 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:76  column:14  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m72[0m  [36m[:div.container-fluid[0m
+  [36m73[0m  [36m     [:div.row[0m
+  [36m74[0m  [36m      [:div.col-xs-3[0m
+  [36m75[0m  [36m       [:input {:id "zipcode" :value "Zip Code" :type "button"}[0m
+  [33m76[0m  [1m        (add-click-listener-by-id "")]][0m
+  [0m  [0m  [33m        ^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m77[0m  [36m      [:div.col-xs-3[0m
+  [36m78[0m  [36m       [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m79[0m  [36m      [:div.col-xs-3[0m
+  [36m80[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.398 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:76  column:14  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m72[0m  [36m[:div.container-fluid[0m
+  [36m73[0m  [36m     [:div.row[0m
+  [36m74[0m  [36m      [:div.col-xs-3[0m
+  [36m75[0m  [36m       [:input {:id "zipcode" :value "Zip Code" :type "button"}[0m
+  [33m76[0m  [1m        (add-click-listener-by-id "zipcode")]][0m
+  [0m  [0m  [33m        ^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m77[0m  [36m      [:div.col-xs-3[0m
+  [36m78[0m  [36m       [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m79[0m  [36m      [:div.col-xs-3[0m
+  [36m80[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:76  column:14  ----[0m
+
+  [1mWrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+
+  [36m72[0m  [36m[:div.container-fluid[0m
+  [36m73[0m  [36m     [:div.row[0m
+  [36m74[0m  [36m      [:div.col-xs-3[0m
+  [36m75[0m  [36m       [:input {:id "zipcode" :value "Zip Code" :type "button"}[0m
+  [33m76[0m  [1m        (add-click-listener-by-id "zipcode" )]][0m
+  [0m  [0m  [33m        ^--- Wrong number of args (1) passed to cljs-weather.core/add-click-listener-by-id[0m
+  [36m77[0m  [36m      [:div.col-xs-3[0m
+  [36m78[0m  [36m       [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m79[0m  [36m      [:div.col-xs-3[0m
+  [36m80[0m  [36m       [:button {:on-click #(js/alert "test")} "Home"]]]])])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.452 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.26 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.412 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.402 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:75 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 75, col 96] The map literal starting with :value on line 75 column 21 contains 5 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m73[0m  [36m[:div.row[0m
+  [36m74[0m  [36m [:div.col-xs-3[0m
+  [33m75[0m  [1m  [:input {:value "Zip Code" :type "button" #js{:onClick (fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 75, col 96] The map literal starting with :value on line 75 column 21 contains 5 form(s). Map literals must contain an even number of forms.[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [36m77[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.436 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.329 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:75 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 75, col 95] The map literal starting with (fn [...] (...)) on line 75 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m73[0m  [36m[:div.row[0m
+  [36m74[0m  [36m [:div.col-xs-3[0m
+  [33m75[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 75, col 95] The map literal starting with (fn [...] (...)) on line 75 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [36m77[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.504 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.335 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.34 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.325 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.338 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.324 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.324 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.338 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.342 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.352 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.327 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:77 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m75[0m  [36m[:div.row[0m
+  [36m76[0m  [36m [:div.col-xs-3[0m
+  [33m77[0m  [1m  [:input {:value "Zip Code" :type "button" :onclick #js{(fn [e] (js/alert "asdf"))}}]][0m
+  [0m  [0m  [33m  /Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 77, col 95] The map literal starting with (fn [...] (...)) on line 77 column 67 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m78[0m  [36m [:div.col-xs-3[0m
+  [36m79[0m  [36m  [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m80[0m  [36m [:div.col-xs-3[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.855 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.467 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.261 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.294 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.285 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.323 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.315 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/components/card.cljs   line:16  column:1  ----[0m
+
+  [1mToo many arguments to def at line 16 /Users/evanjones/Code/cljs-practice/src/cljs_weather/components/card.cljs[0m
+
+  [36m14[0m  [36m                                        ;(def card:hover {:box-shadow "0 8px 16px 0 rgba(255,255,255,.2)"})[0m
+  [36m15[0m  [36m[0m
+  [33m16[0m  [1m(def card [& slot][0m
+  [0m  [0m  [33m^--- Too many arguments to def at line 16 /Users/evanjones/Code/cljs-practice/src/cljs_weather/components/card.cljs[0m
+  [36m17[0m  [36m  ;; this needs to use desctructuring for a map so we can set css fields like card being full-width[0m
+  [36m18[0m  [36m  (if (< js/window.innerWidth 500)[0m
+  [36m19[0m  [36m    [:div.container {:style (into {} [card-css])}[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/components/card.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.302 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/components/card.cljs   line:15  column:1  ----[0m
+
+  [1mToo many arguments to def at line 15 /Users/evanjones/Code/cljs-practice/src/cljs_weather/components/card.cljs[0m
+
+  [36m13[0m  [36m                                        ;(def card:hover {:box-shadow "0 8px 16px 0 rgba(255,255,255,.2)"})[0m
+  [36m14[0m  [36m[0m
+  [33m15[0m  [1m(def card [& slot][0m
+  [0m  [0m  [33m^--- Too many arguments to def at line 15 /Users/evanjones/Code/cljs-practice/src/cljs_weather/components/card.cljs[0m
+  [36m16[0m  [36m  ;; this needs to use desctructuring for a map so we can set css fields like card being full-width[0m
+  [36m17[0m  [36m  (if (< js/window.innerWidth 500)[0m
+  [36m18[0m  [36m    [:div.container {:style (into {} [card-css])}[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/components/card.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.293 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/components/card.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.25 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.286 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.255 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.321 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:42 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 42, col 29] The map literal starting with :view on line 42 column 21 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m40[0m  [36m             (local-storage :app-state)))[0m
+  [36m41[0m  [36m[0m
+  [33m42[0m  [1m(defonce view (atom {:view }))[0m
+  [0m  [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 42, col 29] The map literal starting with :view on line 42 column 21 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m43[0m  [36m[0m
+  [36m44[0m  [36m(defn set-view! [component][0m
+  [36m45[0m  [36m  )[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.293 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.418 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.437 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.354 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:44 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 44, col 24] The map literal starting with :zip-code on line 44 column 12 contains 1 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m42[0m  [36m(defonce view (atom {:view :home}))[0m
+  [36m43[0m  [36m[0m
+  [33m44[0m  [1m(def views {:zip-code })[0m
+  [0m  [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 44, col 24] The map literal starting with :zip-code on line 44 column 12 contains 1 form(s). Map literals must contain an even number of forms.[0m
+  [36m45[0m  [36m[0m
+  [36m46[0m  [36m(defn set-view! [component][0m
+  [36m47[0m  [36m  )[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.276 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:45  column:19  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/app[0m
+
+  [36m42[0m  [36m(defonce view (atom {:view :home}))[0m
+  [36m43[0m  [36m[0m
+  [36m44[0m  [36m(def views {:zip-code nil[0m
+  [33m45[0m  [1m            :home app})[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var cljs-weather.core/app[0m
+  [36m46[0m  [36m[0m
+  [36m47[0m  [36m(defn set-view! [component][0m
+  [36m48[0m  [36m  )[0m
+  [36m49[0m  [36m[0m
+  [36m50[0m  [36m(defn temperature [temp][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.566 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:45  column:19  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/app[0m
+
+  [36m42[0m  [36m(defonce view (atom {:view :home}))[0m
+  [36m43[0m  [36m[0m
+  [36m44[0m  [36m(def views {:zip-code nil[0m
+  [33m45[0m  [1m            :home app})[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var cljs-weather.core/app[0m
+  [36m46[0m  [36m[0m
+  [36m47[0m  [36m(defn set-view! [component][0m
+  [36m48[0m  [36m  ())[0m
+  [36m49[0m  [36m[0m
+  [36m50[0m  [36m(defn temperature [temp][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.567 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.593 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.515 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.596 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.307 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:42 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 42, col 24] A single colon is not a valid keyword.[0m
+
+  [36m40[0m  [36m             (local-storage :app-state)))[0m
+  [36m41[0m  [36m[0m
+  [33m42[0m  [1m(defonce view (atom {: :home}))[0m
+  [0m  [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 42, col 24] A single colon is not a valid keyword.[0m
+  [36m43[0m  [36m[0m
+  [36m44[0m  [36m(defn temperature [temp][0m
+  [36m45[0m  [36m  [:div.left[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.482 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:67  column:66  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/set-view![0m
+
+  [36m63[0m  [36m [:img.title {:src "title.png"}][0m
+  [36m64[0m  [36m[:div.container-fluid[0m
+  [36m65[0m  [36m      [:div.row[0m
+  [36m66[0m  [36m       [:div.col-xs-3[0m
+  [33m67[0m  [1m        [:input {:value "Zip Code" :type "button" :on-click (set-view! :zip-code)}]][0m
+  [0m  [0m  [33m                                                             ^--- Use of undeclared Var cljs-weather.core/set-view![0m
+  [36m68[0m  [36m       [:div.col-xs-3[0m
+  [36m69[0m  [36m        [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]][0m
+  [36m70[0m  [36m       [:div.col-xs-3[0m
+  [36m71[0m  [36m        [:button {:on-click #(js/alert "test")} "Home"]]]]]])[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:62  column:19  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/app[0m
+
+  [36m58[0m  [36m   [:button "Go"]])[0m
+  [36m59[0m  [36m[0m
+  [36m60[0m  [36m[0m
+  [36m61[0m  [36m(def views {:zip-code nil[0m
+  [33m62[0m  [1m            :home app})[0m
+  [0m  [0m  [33m                  ^--- Use of undeclared Var cljs-weather.core/app[0m
+  [36m63[0m  [36m[0m
+  [36m64[0m  [36m(defn set-view! [component][0m
+  [36m65[0m  [36m  ())[0m
+  [36m66[0m  [36m[0m
+  [36m67[0m  [36m(defn navbar [][0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.525 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:100  column:31  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/views[0m
+
+  [36m 96[0m  [36m    (.getElementById "app")[0m
+  [36m 97[0m  [36m    (.-innerHTML)[0m
+  [36m 98[0m  [36m    (set! (html (() views)))))[0m
+  [36m 99[0m  [36m[0m
+  [33m100[0m  [1m(rd/render [((:current @view) views)] (.-body js/document))[0m
+  [0m   [0m  [33m                              ^--- Use of undeclared Var cljs-weather.core/views[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.266 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.308 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.298 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.583 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.286 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.287 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.328 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.317 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.342 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.315 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.34 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.328 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! @current ))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.327 seconds.[0m
+[36m----  Could not Analyze  src/cljs_weather/core.cljs   line:95  column:3  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+
+  [36m94[0m  [36m(defn set-view! [component][0m
+  [33m95[0m  [1m  (set! @current component))[0m
+  [0m  [0m  [33m  ^--- set! target must be a field or a symbol naming a var at line 95 src/cljs_weather/core.cljs[0m
+  [36m96[0m  [36m[0m
+  [36m97[0m  [36m(comment [0m
+  [36m98[0m  [36m(-> js/document[0m
+
+[36m----  Analysis Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[36m----  Compiler Warning on   src/cljs_weather/core.cljs   line:95  column:4  ----[0m
+
+  [1mUse of undeclared Var cljs-weather.core/def![0m
+
+  [36m 91[0m  [36m(def views {:zip-code nil[0m
+  [36m 92[0m  [36m            :home app})[0m
+  [36m 93[0m  [36m[0m
+  [36m 94[0m  [36m(defn set-view! [component][0m
+  [33m 95[0m  [1m  (def! @current component))[0m
+  [0m   [0m  [33m   ^--- Use of undeclared Var cljs-weather.core/def![0m
+  [36m 96[0m  [36m[0m
+  [36m 97[0m  [36m(comment [0m
+  [36m 98[0m  [36m(-> js/document[0m
+  [36m 99[0m  [36m    (.getElementById "app")[0m
+  [36m100[0m  [36m    (.-innerHTML)[0m
+
+[36m----  Compiler Warning : Please see src/cljs_weather/core.cljs  ----[0m
+[31mFailed to compile build :dev from ["src"] in 0.422 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:103 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 30] Unmatched delimiter ).[0m
+
+  [36m101[0m  [36m    (set! (html (() views)))))[0m
+  [36m102[0m  [36m[0m
+  [33m103[0m  [1m(rd/render [(@current views))] (.-body js/document))[0m
+  [0m   [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 30] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.384 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:103 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 30] Unmatched delimiter ).[0m
+
+  [36m101[0m  [36m    (set! (html (() views)))))[0m
+  [36m102[0m  [36m[0m
+  [33m103[0m  [1m(rd/render [(@current views))] (.-body js/document))[0m
+  [0m   [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 30] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[31mFailed to compile build :dev from ["src"] in 0.346 seconds.[0m
+[36m----  Could not Read  src/cljs_weather/core.cljs   line:103 ----[0m
+
+  [1m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 17] Unmatched delimiter ).[0m
+
+  [36m101[0m  [36m    (set! (html (() views)))))[0m
+  [36m102[0m  [36m[0m
+  [33m103[0m  [1m(rd/render [app)] (.-body js/document))[0m
+  [0m   [0m  [33m/Users/evanjones/Code/cljs-practice/src/cljs_weather/core.cljs [line 103, col 17] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs_weather/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.856 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 2.272 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Compiling build :dev to "resources/public/js/compiled/out/index.js" from ["src"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/out/index.js" in 1.295 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_weather/core.js
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css
+Notifying browser that CSS file changed: resources/public/css/style.css

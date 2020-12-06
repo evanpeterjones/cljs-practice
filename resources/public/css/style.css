@@ -1,16 +1,31 @@
 /* some style */
 
 body {
-    background-color: #010101;
     color: grey;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 300;
 }
 
-/* CARD.cljs */
+h1 {
+    color; white;
+}
+
+.title {
+    height: 100px;
+}
+
+.left {
+    float: left;
+    padding: 20px;
+}
+
+.right {
+    float: right;
+    padding: 20px;
+}
 
 .temperature {
-    
+    color: red;
 }
 
 .value {
@@ -18,8 +33,7 @@ body {
 }
 
 .container {
-    color: black;
-    background-color: grey;
+    background-color: black;
     padding: "2px 16px";
     border-radius: "10px";
 }

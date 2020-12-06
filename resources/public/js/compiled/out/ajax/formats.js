@@ -11,8 +11,8 @@ goog.require('ajax.protocols');
  * is nonetheless really rather useful.
  */
 ajax.formats.raw_response_format = (function ajax$formats$raw_response_format(var_args){
-var G__21545 = arguments.length;
-switch (G__21545) {
+var G__21926 = arguments.length;
+switch (G__21926) {
 case 0:
 return ajax.formats.raw_response_format.cljs$core$IFn$_invoke$arity$0();
 
@@ -42,8 +42,8 @@ return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"wr
 });
 ajax.formats.text_response_format = ajax.formats.raw_response_format;
 ajax.formats.get_format = (function ajax$formats$get_format(var_args){
-var G__21548 = arguments.length;
-switch (G__21548) {
+var G__21929 = arguments.length;
+switch (G__21929) {
 case 2:
 return ajax.formats.get_format.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -91,8 +91,8 @@ return format_entry.call(null,request);
 (ajax.formats.get_format.cljs$lang$maxFixedArity = 2);
 
 ajax.formats.get_accept_entries = (function ajax$formats$get_accept_entries(var_args){
-var G__21551 = arguments.length;
-switch (G__21551) {
+var G__21932 = arguments.length;
+switch (G__21932) {
 case 2:
 return ajax.formats.get_accept_entries.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -140,8 +140,8 @@ return fe;
 (ajax.formats.get_accept_entries.cljs$lang$maxFixedArity = 2);
 
 ajax.formats.content_type_matches = (function ajax$formats$content_type_matches(var_args){
-var G__21554 = arguments.length;
-switch (G__21554) {
+var G__21935 = arguments.length;
+switch (G__21935) {
 case 2:
 return ajax.formats.content_type_matches.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -169,8 +169,8 @@ return ((cljs.core._EQ_.call(null,accept,"*/*")) || ((content_type.indexOf(accep
 (ajax.formats.content_type_matches.cljs$lang$maxFixedArity = 2);
 
 ajax.formats.detect_content_type = (function ajax$formats$detect_content_type(var_args){
-var G__21557 = arguments.length;
-switch (G__21557) {
+var G__21938 = arguments.length;
+switch (G__21938) {
 case 3:
 return ajax.formats.detect_content_type.cljs$core$IFn$_invoke$arity$3((arguments[(0)]),(arguments[(1)]),(arguments[(2)]));
 
@@ -210,17 +210,17 @@ return cljs.core.some.call(null,ajax.formats.content_type_matches.call(null,cont
 
 (ajax.formats.detect_content_type.cljs$lang$maxFixedArity = 3);
 
-ajax.formats.get_default_format = (function ajax$formats$get_default_format(response,p__21559){
-var map__21560 = p__21559;
-var map__21560__$1 = (((((!((map__21560 == null))))?(((((map__21560.cljs$lang$protocol_mask$partition0$ & (64))) || ((cljs.core.PROTOCOL_SENTINEL === map__21560.cljs$core$ISeq$))))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21560):map__21560);
-var request = map__21560__$1;
-var response_format = cljs.core.get.call(null,map__21560__$1,new cljs.core.Keyword(null,"response-format","response-format",1664465322));
+ajax.formats.get_default_format = (function ajax$formats$get_default_format(response,p__21940){
+var map__21941 = p__21940;
+var map__21941__$1 = (((((!((map__21941 == null))))?(((((map__21941.cljs$lang$protocol_mask$partition0$ & (64))) || ((cljs.core.PROTOCOL_SENTINEL === map__21941.cljs$core$ISeq$))))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21941):map__21941);
+var request = map__21941__$1;
+var response_format = cljs.core.get.call(null,map__21941__$1,new cljs.core.Keyword(null,"response-format","response-format",1664465322));
 var f = ajax.formats.detect_content_type.call(null,ajax.util.get_content_type.call(null,response),request);
 return ajax.formats.get_format.call(null,request,cljs.core.first.call(null,cljs.core.filter.call(null,f,response_format)));
 });
 ajax.formats.detect_response_format_read = (function ajax$formats$detect_response_format_read(var_args){
-var G__21563 = arguments.length;
-switch (G__21563) {
+var G__21944 = arguments.length;
+switch (G__21944) {
 case 2:
 return ajax.formats.detect_response_format_read.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -249,11 +249,11 @@ return new cljs.core.Keyword(null,"read","read",1140058661).cljs$core$IFn$_invok
 
 (ajax.formats.detect_response_format_read.cljs$lang$maxFixedArity = 2);
 
-ajax.formats.accept_header = (function ajax$formats$accept_header(p__21565){
-var map__21566 = p__21565;
-var map__21566__$1 = (((((!((map__21566 == null))))?(((((map__21566.cljs$lang$protocol_mask$partition0$ & (64))) || ((cljs.core.PROTOCOL_SENTINEL === map__21566.cljs$core$ISeq$))))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21566):map__21566);
-var request = map__21566__$1;
-var response_format = cljs.core.get.call(null,map__21566__$1,new cljs.core.Keyword(null,"response-format","response-format",1664465322));
+ajax.formats.accept_header = (function ajax$formats$accept_header(p__21946){
+var map__21947 = p__21946;
+var map__21947__$1 = (((((!((map__21947 == null))))?(((((map__21947.cljs$lang$protocol_mask$partition0$ & (64))) || ((cljs.core.PROTOCOL_SENTINEL === map__21947.cljs$core$ISeq$))))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21947):map__21947);
+var request = map__21947__$1;
+var response_format = cljs.core.get.call(null,map__21947__$1,new cljs.core.Keyword(null,"response-format","response-format",1664465322));
 if(cljs.core.vector_QMARK_.call(null,response_format)){
 return cljs.core.mapcat.call(null,ajax.formats.get_accept_entries.call(null,request),response_format);
 } else {
@@ -266,4 +266,4 @@ var accept = ajax.formats.accept_header.call(null,opts);
 return ajax.interceptors.map__GT_ResponseFormat.call(null,new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"read","read",1140058661),ajax.formats.detect_response_format_read.call(null,opts),new cljs.core.Keyword(null,"format","format",-1306924766),["(from ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(accept),")"].join(''),new cljs.core.Keyword(null,"content-type","content-type",-508222634),accept], null));
 });
 
-//# sourceMappingURL=formats.js.map?rel=1607132426266
+//# sourceMappingURL=formats.js.map?rel=1607206814511

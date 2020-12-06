@@ -1,0 +1,13 @@
+(ns cljs-weather.weather)
+
+(defn get-forecast! []
+  (GET api-url
+       {:params (if (:postal-code @app-state)
+                  {"zip" (:postal-code @app-state)
+                   "appid" "3c612cd1a014cd6ce89c67d4cca25f39"
+                   "units" (:units @app-state)}
+                  {"lat"  (:x-loc @app-state)
+                   "lon"   (:y-loc @app-state)
+                   "appid" "3c612cd1a014cd6ce89c67d4cca25f39"
+                   "units" (:units @app-state)})
+        :handler handle-response!}))

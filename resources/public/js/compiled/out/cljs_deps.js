@@ -189,4 +189,4 @@ goog.addDependency("../ajax/xhrio.js", ['ajax.xhrio'], ['goog.net.XhrManager', '
 goog.addDependency("../ajax/core.js", ['ajax.core'], ['ajax.formats', 'ajax.xml_http_request', 'ajax.transit', 'ajax.json', 'ajax.url', 'ajax.interceptors', 'cljs.core', 'ajax.ring', 'ajax.easy', 'ajax.simple', 'ajax.protocols', 'ajax.util', 'clojure.string', 'ajax.xhrio']);
 goog.addDependency("../cljs_weather/weather.js", ['cljs_weather.weather'], ['ajax.core', 'cljs.core']);
 goog.addDependency("../alandipert/storage_atom.js", ['alandipert.storage_atom'], ['goog.Timer', 'cljs.core', 'cognitect.transit', 'clojure.string']);
-goog.addDependency("../cljs_weather/core.js", ['cljs_weather.core'], ['cljs_weather.utils', 'cljs_weather.components.card', 'reagent.core', 'cljs_weather.weather', 'cljs.core', 'alandipert.storage_atom', 'reagent.dom']);
+goog.addDependency("../cljs_weather/core.js", ['cljs_weather.core'], ['cljs_weather.utils', 'cljs_weather.components.card', 'reagent.core', 'cljs_weather.weather', 'cljs.core', 'alandipert.storage_atom', 'clojure.string', 'reagent.dom']);

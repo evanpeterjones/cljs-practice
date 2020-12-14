@@ -1,50 +1,25 @@
-/* some style */
-
-.navbar {
-    text-decoration: none !important;
-    color: white;
-    padding: "2px 16px";
-    border-radius: "10px";
-}
-
 body {
-    color: grey;
-    font-family: Helvetica, Arial, sans-serif;
+    padding-top: 15px;
+    font-family: 'Abril Fatface', cursive;
     font-weight: 300;
 }
 
-h1 {
-    color; white;
+img {
+    display: block;
+    margin-left: auto;
 }
 
-.title {
-    height: 100px;
+button {
+    border: none;
+    font-size: 1.5rem;
 }
 
-.left {
-    float: left;
-    padding: 20px;
-}
-
-.right {
-    float: right;
-    padding: 20px;
-}
-
-.temperature {
+button:hover {
+    border-radius: 100px;
     color: red;
 }
 
-.value {
-    color: green;
+h2 {
+    color: grey;
 }
 
-.container {
-    background-color: black;
-    padding: "2px 16px";
-    border-radius: "10px";
-}
-
-.container:hover {
-    box-shadow: 0 108px 16px 0 rgba(255,255,255,.2);
-}

@@ -1,0 +1,1 @@
+{:output-wrapper true, :externs ["closure-js/externs"], :libs ["closure-js/libs"], :output-to "resources/public/js/compiled/cljs_weather.js", :main cljs-weather.core, :optimizations :advanced, :pretty-print false, :output-dir "target/cljsbuild-compiler-1"}

@@ -1,14 +1,25 @@
 (ns cljs-weather.core
-  (:require-macros [hiccups.core :as hiccups :refer [html defhtml]])
+  (:require-macros [hiccups.core :refer [html defhtml]])
   (:require [cljs-weather.utils :refer [with-width]]
-            [cljs-weather.components.card :refer [card]]
+            [cljs-weather.components.card :refer [card styled-card]]
             [cljs-weather.weather :refer [get-forecast! get-location!]]
             [reagent.core :as r]
             [reagent.dom :as rd]
-            ;[hiccups.runtime :as hiccupsrt]
-            [alandipert.storage-atom :refer [local-storage]]))
+            [alandipert.storage-atom :refer [local-storage]]
+            [clojure.string :as str]))
 
-(enable-console-print!)
+(def view (-> (r/atom "Home") (local-storage :view)))
+
+(defn set-view! [component]
+  (reset! view component)
+  (js/console.log (str "Changing to " component " : " @view)))
+
+(defonce app-state
+   (-> {:title      "Clear as Day"
+        :sub-title   "get to enjoy the night life"
+        :description "When a city full of unsuspecting people wake up in a world of darkness, how do they cope?"
+        :mobile?     false}
+         atom))
 
 (defonce listen-links [{:name "Apple Podcasts" :img-resource "img/apple.png" :url "https://podcasts.apple.com/us/podcast/encounters-a-paranormal-experience/id1407471024"}
                        {:name "Spotify" :img-resource "" :url "https://open.spotify.com/show/0bcymnpw8brMosTC32Wn8h?si=nUkKOpjZS2GZANDpCQX4zQ"}
@@ -20,84 +31,69 @@
 (defonce social-links [{:name "Facebook" :img-resource "" :url "https://www.facebook.com/encountersthepodcast/"}
                        {:name "Tumblr" :img-resource "" :url ""}
                        {:name "RSS" :img-resource "" :url "http://encountersthepodcast.libsyn.com/rss"}
+                       {:name "Patreon" :img-resource "" :url ""}
                        {:name "Email Us" :img-resource "" :url "mailto:encountersthepodcast@gmail.com"}])
 
-(defn links [link-list]
+(defn link [{:keys [name img-resource url]}]
   [:div.grid-container
-   (for [link link-list]
-     [:div.links
-      [:img {:src (:img-resource link)}]
-      [:a {:href (:url link)} (:name link)]])])
+   [:div.links
+    ;[:img {:src img-resource}]
+    [:a {:href url} name]]])
 
-(defonce app-state                                          ;;this is persisted to local-storage so the application remembers you when you come back
-         (-> {:title       "Encounters"
-              :sub-title   "A Paranormal Experience"
-              :description "A Paranormal / Supernatural discussion between Amanda and Dakota. We seek to unravel the unexplained and unknown. Join us weekly as we step into the shadows to bring a little light on the unknown. Welcome to the discussion."
-              :x-loc nil
-              :y-loc nil
-            :mobile?     false}
-             atom
-             (local-storage :app-state)))
+(defn routing-button [name]
+  [:button {:on-click #(set-view! name)} name])
 
-(defonce current (atom :home))
-(declare set-view!)
+(defn horizontal-div [& b]
+  "create a horizontal div of components"
+  (let [keyw (->> b count (/ 12) js/Math.floor (str "col-xs-") keyword)
+        fixed (map (fn [x] [keyw x]) b)]
+    `[:div.container-fluid
+      [:div.row ~@fixed]]))
 
-(defn temperature [temp]
-  [:div.left
-   [:div.temperature
-    [:h2 (:label temp)]
-    [:div.value
-     (:value temp)]]])
+(defn navbar [views]
+  (let [{:keys [title]} @app-state]
+    [card
+     [:h1 (clojure.string/upper-case title)]
+     (map routing-button views)]))
 
-(defn postal-code [code change]
-  [:div.postal-code
-   [:h3 "Enter your postal code"]
-   [:input {:type        "text"
-            :placeholder "Postal Code"
-            :value code
-            :on-change change}]
-   [:button "Go"]])
+(defn side-bar []
+  [card (map link listen-links) (map link social-links)])
 
-(defn navbar []
-  [:div.navbar
-   [card
-     [:img.title {:src "title.png"}]
-    [:div.container-fluid
-          [:div.row
-           [:div.col-xs-3
-            [:input {:value "Zip Code" :type "button" :on-click #(set-view! :zip-code)}]]
-           [:div.col-xs-3
-            [:input {:type "button" :value "Hosts" :on-click #(js/alert "test")}]]
-           [:div.col-xs-3
-            [:button {:on-click #(js/alert "test")} "Home"]]]]]])
+(defn hdr [text]
+  [:h2 (str/upper-case text)])
 
-(defn location-info [state]
+;; views
+
+(defn home []
   [:div
-   [:h1 (:x-loc @state)]
-   [:h1 (:y-loc @state)]
-   [:input {:type     "button"
-            :value    "Get Location"
-            :on-click #(.getCurrentPosition js/navigator.geolocation.
-                                            (fn [x] (get-location! x app-state)))}]])
+   [card
+    [hdr "now playing"]
+    [:p (:sub-title @app-state)]
+    [:p (:description @app-state)]
+    [:iframe {:style {:border "solid 1px #e4edf2;"}
+              :src "https://www.stitcher.com/embed/235470"
+              :width "220" :height "150" :frameborder "0" :scrolling "no"}]]])
+
+(defn characters [] [card [hdr "Characters"]])
+(defn episodes [] [card [hdr "Episodes"]])
+(defn blog [] (styled-card {:height "100%"} [hdr "Blog"]
+                    [:iframe {:src "https://relaxidaisical.blogspot.com/"
+                              :width "100%" :height "50%"
+                              :frameborder "0" :scrolling "yes"}]))
 
 (defn app []
-   [:div.app
-    [navbar]
-    [:div#body
-     (location-info app-state)
-     (links social-links)
-     (links listen-links)]])
+  (let [views {"Home" [home]
+               "Episodes" [episodes]
+               "Characters" [characters]
+               "Blog" [blog]}]
+    (fn []
+      [:div
+       [:div {:style {:float "left"
+                      :width "30%"}}
+        [navbar (keys views)]
+        [side-bar]]
+       [:div {:style {:float "right"
+                      :width "70%"}}
+        (get views @view)]])))
 
-(def views {:zip-code nil
-            :home app})
-
-(defn set-view! [component]
-  (swap! current (fn [x] component)))
-
-(comment 
-(-> js/document
-    (.getElementById "app")
-    (.-innerHTML)
-    (set! (html (() views)))))
-
-(rd/render [(@current views)] (.-body js/document))
+(rd/render [app] (.-body js/document))
